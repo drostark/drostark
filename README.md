@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Stark</h1>
 <h3 align="center">Diving into Data: A Berliner's Journey as a Passionate Analyst.</h3>
 
-- 🔭 I’m currently working on **ElectoVision 2024: Forecasting the US Election**
+- 🔭 I’m currently working on **ML vs Cancer**
 
-- 🌱 I’m currently learning **Mathematics for Machine Learning and Data Science Specialization**
+- 🌱 I’m currently learning **Le Wagon - Data Science bootcamp**
 
 - 📫 How to reach me **drostark@gmail.com**
 
