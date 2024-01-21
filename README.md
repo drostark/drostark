@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Stark</h1>
-<h3 align="center">Diving into Data: A Berliner's Journey as a Passionate Analyst.</h3>
+<h3 align="center">From Creative to Data Science and Product Management: A Berliner's Practical Shift into ML and DL.</h3>
 
-- 🔭 I’m currently working on **ML vs Cancer**
+- 🔭 I’m currently working on **Olist - Kaggle challenge**
 
-- 🌱 I’m currently learning **Le Wagon - Data Science bootcamp**
+- 🌱 I’m currently learning **Le Wagon - Data Science Bootcamp**
 
 - 📫 How to reach me **drostark@gmail.com**
 
