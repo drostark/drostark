@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Stark</h1>
 <h3 align="center">From Creative to Data Science and Product Management: A Berliner's Practical Shift into ML and DL.</h3>
 
-- 🔭 I’m currently working on **Olist - Kaggle challenge**
+- 🔭 I’m currently working on **Professional Scrum Master™ I Certification**
 
-- 🌱 I’m currently learning **Le Wagon - Data Science Bootcamp**
+- 🌱 I’m currently learning **Udacity AI Product Manager**
 
 - 📫 How to reach me **drostark@gmail.com**
 
