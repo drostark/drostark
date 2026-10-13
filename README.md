@@ -12,7 +12,6 @@ I started in 3D art and product design (Milan), spent ten years in furniture e-c
 ### Earlier projects
 
 - **[H&M for You](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping)** — AI-personalised shopping concept (Udacity AI Product Manager Nanodegree)
-- **[PneumoDetect AI](https://github.com/drostark/PneumoDetect-AI)** — pneumonia detection with Google AutoML and Vertex AI
 - **[ML vs Cancer](https://github.com/PasPelle/ML_vs_Cancer)** — histopathologic cancer detection, team of four (Le Wagon Data Science)
 
 ### Tools
