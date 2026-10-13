@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Daniel Stark</h1>
-<h3 align="center">From Creative to Data Science and Product Management: A Berliner's Practical Shift into AI and ML.</h3>
+# Daniel Stark
 
-- 🔭 I’m currently working on **Professional Scrum Master™ I Certification**
+**Product & Design Leader · AI-first products, from concept to delivery · Berlin**
 
-- 🌱 I’m currently learning **Udacity AI Product Manager**
+I started in 3D art and product design (Milan), spent ten years in furniture e-commerce growing from 3D artist to Creative Director to Lead Product Designer, then took a year out to study data science and AI. Today I design, build and ship AI-first products end to end.
 
-- 📫 How to reach me **drostark@gmail.com**
+### What I'm building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dstark2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dstark2022" height="30" width="40" /></a>
-</p>
+- **[Maison de Cocon](https://www.maisondecocon.com)** — a quiet-luxury sleep and bedding brand I designed, built and run on my own: six markets, four languages, on Shopify.
+- **[AI e-commerce pipelines](https://github.com/drostark/ai-ecommerce-pipelines)** — the automation behind it: supplier sync, Merchant Center feed, translation, blog and Instagram, with verified writes and human approval gates.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+### Earlier projects
+
+- **[H&M for You](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping)** — AI-personalised shopping concept (Udacity AI Product Manager Nanodegree)
+- **[PneumoDetect AI](https://github.com/drostark/PneumoDetect-AI)** — pneumonia detection with Google AutoML and Vertex AI
+- **[ML vs Cancer](https://github.com/PasPelle/ML_vs_Cancer)** — histopathologic cancer detection, team of four (Le Wagon Data Science)
+
+### Tools
+
+Claude Code · Claude API · Python · SQL · Shopify · GitHub Actions · Figma · Jira
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/daniel-stark-pm)
